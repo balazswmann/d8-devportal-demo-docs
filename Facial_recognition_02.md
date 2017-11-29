@@ -1,4 +1,4 @@
-## Techniques for face acquisition
+## Techniques for face acquisition (edit)
 
 ### Traditional
 
